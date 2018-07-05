@@ -7,10 +7,14 @@ tags: Tips
 excerpt:
 mathjax: true
 ---
-* content
-{:toc}
 
 听书Github Atom是个不错的编辑器，使用了一番确实不错，逐渐替代TextMate。
+
+
+
+
+* content
+{:toc}
 
 ## Atom介绍
 
