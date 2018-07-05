@@ -8,9 +8,6 @@ excerpt:
 mathjax: true
 ---
 
--   Content
-    {:toc}
-
 ## Atom介绍
 
 Atom 代码编辑器支持 Windows、Mac、Linux 三大桌面平台，完全免费，并且已经在 GitHub 上开放了全部的源代码。它支持各种编程语言的代码高亮(HTML / CSS / Javascript / PHP / Python / C / C++ / Objective C / Java / JSON / Perl / CoffeeScript / Go / Sass / YAML / Markdown等等。
