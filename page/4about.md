@@ -6,7 +6,7 @@ icon: heart
 type: page
 ---
 
-* 目录
+* Content
 {:toc}
 
 ## 关于我
@@ -36,7 +36,7 @@ type: page
 ### Update Log
 
 * 2017.6-2017.7 完成了这个博客主题的第一版
-* 2017.6 fork自（https://github.com/Gaohaoyang/gaohaoyang.github.io）。
+* 2017.6 fork form（https://github.com/Gaohaoyang/gaohaoyang.github.io）
 
 ## 友情链接
 
