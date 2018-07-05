@@ -10,7 +10,10 @@ type: page
 {:toc}
 
 ## Mac OS
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#audio) 
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#audio)
+
+## Reference
+* [markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
 
 ## Comments
 
