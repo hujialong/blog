@@ -6,7 +6,7 @@ icon: heart
 type: page
 ---
 
-* content
+* 目录
 {:toc}
 
 ## 关于我
@@ -27,7 +27,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[hjlhust](https://github.com/hjlhust)
+* GitHub：[hujialong](https://github.com/hujialong)
 * email：hjlhust@gmail.com
 
 ## 关于本站
