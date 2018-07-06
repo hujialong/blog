@@ -14,6 +14,7 @@ type: page
 
 ## Reference
 * [markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
+* [Building a Data Science Portfolio: Setting Up a Blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 
 ## Comments
 
