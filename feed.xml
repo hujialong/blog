@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>胡佳龙的博客</title>
-    <link href="https://hujialong.github.io/blog/feed.xml" rel="self" />
-    <link href="https://hujialong.github.io/blog" />
+    <link href="https://blog.hjlhust.com/feed.xml" rel="self" />
+    <link href="https://blog.hjlhust.com" />
     <updated>2021-07-21T12:18:59+08:00</updated>
     <author>
         <name>hujl</name>
     </author>
-    <id>https://hujialong.github.io/blog</id>
+    <id>https://blog.hjlhust.com</id>
 
     <entry>
         <title>在Splunk中对数据进行脱敏</title>
         <author>
             <name>hujl</name>
         </author>
-        <link href="https://hujialong.github.io/blog/zai-splunkzhong-dui-shu-ju-jin-xing-tuo-min.html"/>
-        <id>https://hujialong.github.io/blog/zai-splunkzhong-dui-shu-ju-jin-xing-tuo-min.html</id>
+        <link href="https://blog.hjlhust.com/zai-splunkzhong-dui-shu-ju-jin-xing-tuo-min.html"/>
+        <id>https://blog.hjlhust.com/zai-splunkzhong-dui-shu-ju-jin-xing-tuo-min.html</id>
 
         <updated>2021-07-21T12:18:59+08:00</updated>
             <summary>
@@ -94,8 +94,8 @@ DEST_KEY = _raw
         <author>
             <name>hujl</name>
         </author>
-        <link href="https://hujialong.github.io/blog/too-small-to-match-seekptr-checksum.html"/>
-        <id>https://hujialong.github.io/blog/too-small-to-match-seekptr-checksum.html</id>
+        <link href="https://blog.hjlhust.com/too-small-to-match-seekptr-checksum.html"/>
+        <id>https://blog.hjlhust.com/too-small-to-match-seekptr-checksum.html</id>
 
         <updated>2021-07-21T12:09:02+08:00</updated>
             <summary>
@@ -134,8 +134,8 @@ crcSalt = &lt;SOURCE&gt;
         <author>
             <name>hujl</name>
         </author>
-        <link href="https://hujialong.github.io/blog/collect-ldapsearch-result-to-index.html"/>
-        <id>https://hujialong.github.io/blog/collect-ldapsearch-result-to-index.html</id>
+        <link href="https://blog.hjlhust.com/collect-ldapsearch-result-to-index.html"/>
+        <id>https://blog.hjlhust.com/collect-ldapsearch-result-to-index.html</id>
 
         <updated>2021-07-21T12:09:10+08:00</updated>
             <summary>
