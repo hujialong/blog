@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://hujialong.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://hujialong.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://hujialong.github.io/blog/collect-ldapsearch-result-to-</loc>
+<lastmod>2021-07-21T12:09:10+08:00</lastmod>
+</url>
+<url>
+<loc>https://hujialong.github.io/blog/too-small-to-match-seekptr-checksum.html</loc>
+<lastmod>2021-07-21T12:09:02+08:00</lastmod>
+</url>
+<url>
+<loc>https://hujialong.github.io/blog/zai-splunkzhong-dui-shu-ju-jin-xing-tuo-min.html</loc>
+<lastmod>2021-07-21T12:18:59+08:00</lastmod>
+</url>
+</urlset>
