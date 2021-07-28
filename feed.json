@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "胡佳龙的博客",
+    "title": "茶绿茶行",
     "description": "",
     "home_page_url": "https://blog.hjlhust.com",
     "feed_url": "https://blog.hjlhust.com/feed.json",
     "user_comment": "",
+    "icon": "https://blog.hjlhust.com/media/website/logo.png",
     "author": {
         "name": "hujl"
     },
